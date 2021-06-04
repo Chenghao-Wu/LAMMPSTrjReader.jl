@@ -1,0 +1,1 @@
+# LAMMPSTrjReader.jl
